@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20%26%20AI%20Developer%20%7C%20CSE%20%40%20Saveetha%20Engineering%20College&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE+Student+%7C+Full-Stack+%26+AI+Developer&descAlignY=62&descSize=16" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samuelmariappan&label=Profile+Views&color=70a5fd&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Samuelmariappan&label=Profile+Views&color=70a5fd&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+%26+AI+Developer+%7C+Java+%26+Python;React.js+%7C+Machine+Learning+%7C+SQL+%7C+DSA;Building+Scalable+Solutions+that+Matter;Problem+Solver+%7C+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&width=750&lines=Full-Stack+%26+AI+Developer+%7C+Java+%26+Python;React.js+%7C+Machine+Learning+%7C+SQL+%7C+DSA;Building+Scalable+Solutions+that+Matter;Problem+Solver+%7C+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```java
 class Developer {
@@ -36,10 +36,10 @@ class Developer {
     String[] hobbies = {
         "Competitive Coding",
         "Building AI Projects",
-        "Exploring New Tech"
+        "Exploring New Technologies"
     };
 
-    String funFact = "I turn coffee ☕ into scalable code 🚀";
+    String funFact = "I turn coffee into scalable code";
 
     String motto() {
         return "Build things that matter. Solve problems at scale.";
@@ -47,7 +47,7 @@ class Developer {
 }
 ```
 
-<br clear="right"/>
+<br clear="right" />
 
 ---
 
@@ -91,10 +91,10 @@ class Developer {
 
 <div align="center">
   <a href="https://github.com/Samuelmariappan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Samuelmariappan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Samuelmariappan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Samuelmariappan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelmariappan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelmariappan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
@@ -103,7 +103,7 @@ class Developer {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Samuelmariappan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Samuelmariappan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ class Developer {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelmariappan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelmariappan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ class Developer {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samuelmariappan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Samuelmariappan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
 </div>
 
 ---
@@ -133,10 +133,10 @@ class Developer {
 
 > **Tech Stack:** `HTML` `CSS` `JavaScript` `React.js` `Bootstrap` `REST APIs`
 
-- Built a full-stack web application to **analyze airfare trends** using seasonal and historical data, enabling smarter travel decisions
-- Designed and delivered **responsive, mobile-first UIs** using HTML, CSS, and JavaScript — ensuring seamless cross-device experience
-- Integrated **React.js + Bootstrap** to enhance frontend performance, interactivity, and overall user experience
-- Optimized backend **REST API endpoints** for faster data processing and more efficient data retrieval
+- Built a full-stack web app to **analyze airfare trends** using seasonal and historical data, enabling smarter travel decisions
+- Designed **responsive, mobile-first UIs** with HTML, CSS, and JavaScript — ensuring seamless cross-device experience
+- Integrated **React.js + Bootstrap** to boost frontend performance and elevate user experience
+- Optimized **REST API endpoints** for faster data processing and efficient retrieval
 
 </details>
 
@@ -148,7 +148,7 @@ class Developer {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**SkillPath – AI Skill Recommender**](https://github.com/Samuelmariappan) | Python · Scikit-learn · Machine Learning · Data Analysis | AI-powered recommendation engine helping rural students discover personalized skill & career paths; applied ML algorithms for prediction with an intuitive learning path interface |
+| [**SkillPath – AI Skill Recommender**](https://github.com/Samuelmariappan) | Python · Scikit-learn · ML · Data Analysis | AI-powered engine helping rural students discover personalized skill and career paths; ML algorithms for prediction with intuitive learning path interface |
 
 </div>
 
@@ -186,11 +186,11 @@ class Developer {
 ## 🧱 Currently Learning
 
 ```txt
-🧱 System Design     → Scalability, Caching, Load Balancing, Distributed Systems
-☁️  AWS Cloud         → EC2, S3, IAM, Lambda, CloudFormation
-⚡  Spring Boot       → REST APIs, Security, Microservices, JPA/Hibernate
-🤖  Machine Learning  → Model Deployment, Feature Engineering, Neural Networks
-🔍  DSA               → Dynamic Programming, Graphs, Trees, Competitive Coding
+🧱 System Design    → Scalability, Caching, Load Balancing, Distributed Systems
+☁  AWS Cloud        → EC2, S3, IAM, Lambda, CloudFormation
+⚡  Spring Boot      → REST APIs, Security, Microservices, JPA
+🤖 Machine Learning → Model Deployment, Feature Engineering, Neural Networks
+🔍 DSA              → Dynamic Programming, Graphs, Trees, Competitive Coding
 ```
 
 ---
@@ -199,15 +199,15 @@ class Developer {
 
 <p align="center">
   <a href="https://linkedin.com/in/samuel-mariappan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:samuelmariappn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/Samuelmariappan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -215,4 +215,4 @@ class Developer {
   <i>"The best code is the one that solves a real problem for a real person."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
