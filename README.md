@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel+M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE+Student+%7C+Full-Stack+%26+AI+Developer&descAlignY=62&descSize=16" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=62&descSize=16)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samuelmariappan&label=Profile+Views&color=70a5fd&style=flat" alt="Profile Views" />
@@ -215,4 +215,4 @@ class Developer {
   <i>"The best code is the one that solves a real problem for a real person."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
